@@ -11,5 +11,5 @@ I have research and national-lab experience (LANL, INL) building and validating 
 
 ### Featured Projects
 - [EUV flash detection pipeline](https://github.com/joshuaj2725/euv-flash-detection) – image processing over 4,200+ SDO/AIA images, 4.4M+ events characterized
-- - [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
+- [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
 - [SlimeNet: spiking neural network controller](repo-url) – bio-inpsired control, 20% faster stabalization than PID/LQR
