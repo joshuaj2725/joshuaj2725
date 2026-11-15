@@ -7,7 +7,7 @@ I have research and national-lab experience (LANL, INL) building and validating 
 **Focus areas:** physics-informed and spiking neural networks; event-based sensing; image-processing pipelines; closed-loop control
 
 - Contact me: joshuaj2725@gmail.com
-- LinkedIn: linkedin.com/in/joshua-b-johnson
+- LinkedIn: [linkedin.com/in/joshua-b-johnson](https://linkedin.com/in/joshua-b-johnson)
 
 ### Featured Projects
 - [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
