@@ -6,10 +6,10 @@ I have research and national-lab experience (LANL, INL) building and validating 
 
 **Focus areas:** physics-informed and spiking neural networks; event-based sensing; image-processing pipelines; closed-loop control
 
-– Contact me: joshuaj2725@gmail.com
-– LinkedIn: linkedin.com/in/joshua-b-johnson
+- Contact me: joshuaj2725@gmail.com
+- LinkedIn: linkedin.com/in/joshua-b-johnson
 
 ### Featured Projects
-– [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
-– [EUV flash detection pipeline](rep-url) – image processing over 4,200+ SDO/AIA images, 4.4M+ events characterized
-– [SlimeNet: spiking neural network controller](repo-url) – bio-inpsired control, 20% faster stabalization than PID/LQR
+- [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
+- [EUV flash detection pipeline](rep-url) – image processing over 4,200+ SDO/AIA images, 4.4M+ events characterized
+- [SlimeNet: spiking neural network controller](repo-url) – bio-inpsired control, 20% faster stabalization than PID/LQR
