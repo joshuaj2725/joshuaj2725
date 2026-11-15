@@ -1,16 +1,15 @@
-## Hi there 👋
+## Greetings!
 
-<!--
-**joshuaj2725/joshuaj2725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joshua Johnson, a graduate of New Mexico State University with a B.S. and M.S. in Electrical Engineering. My background involves machine learning for dynamical systems, signal and image processing, and control design.
 
-Here are some ideas to get you started:
+I have research and national-lab experience (LANL, INL) building and validating models, ranging from data acquisition and sensor hardware to training, benchmarking, and technical reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas:** physics-informed and spiking neural networks; event-based sensing; image-processing pipelines; closed-loop control
+
+– Contact me: joshuaj2725@gmail.com
+– LinkedIn: linkedin.com/in/joshua-b-johnson
+
+### Featured Projects
+– [PINN / DeepONet for pendulum dynamics](repo-url) - PyTorch models for identifying and forecasting nonlinear dynamics
+– [EUV flash detection pipeline](rep-url) – image processing over 4,200+ SDO/AIA images, 4.4M+ events characterized
+– [SlimeNet: spiking neural network controller](repo-url) – bio-inpsired control, 20% faster stabalization than PID/LQR
